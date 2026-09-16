@@ -4,25 +4,25 @@ Mod list changes on top of the modpack:
 
 Added mods:
 
-- chloride-FORGE-mc1.20.1-v1.8.1.jar
+- chloride-FORGE-mc1.20.1-v1.7.7.jar
 - FallingTree-1.20.1-4.3.4.jar
 - fzzy_config-0.7.6+1.20.1+forge.jar
 - gnetum-2.5.0+1.20.1-forge.jar
 - Harium-mc1.20.1-2.0-cumulative-hotfix-v2.jar
 - Ixeris-4.6.5+1.20.1-forge.jar
 - Jade-1.20.1-Forge-11.13.3.jar
+- jecharacters-1.20.1-forge-4.6.9.jar
 - liubai-1.0.2-1.20.1.jar
 - obe+1.20.1-forge-1.1.45-srg.jar
 - particle_core-0.3.3+1.20.1+forge.jar
 - ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar
+- smsn-forge-1.4.3-1.20.1.jar
 
 Removed mods:
-
 - AdvancementPlaques-1.20.1-forge-1.6.9.jar
 - AI-Improvements-1.20-0.5.2.jar
 - almanac-1.20.x-forge-1.0.2.jar
 - betterbiomereblend-1.5.3.jar
-- biomesize-1.20.1-1.5.jar
 - bocchium-1.20.1-0.0.3.jar
 - botarium-forge-1.20.1-2.3.4.jar
 - ClickMachine-1.20.1-8.0.2.jar
@@ -36,17 +36,14 @@ Removed mods:
 - Corgilib-Forge-1.20.1-4.0.3.4.jar
 - cosmeticarmorreworked-1.20.1-v1a.jar
 - CraftPresence-2.7.0+1.20.1-forge.jar
-- createbetterfps-1.20.1-1.1.1.jar
 - createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar
 - CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
 - CullLessLeaves-Reforged-1.20.1-1.0.5.jar
-- cupboard-1.20.1-2.7.jar
 - default-server-properties-forge-81.1.0.jar
 - e4mc_minecraft-forge-5.4.1.jar
 - EquipmentCompare-1.20.1-forge-1.3.7.jar
 - EuphoriaPatcher-1.7.8-r5.6.1-forge.jar
 - explosiveenhancement-1.1.0-1.20.1-client-and-server.jar
-- exposure-1.20.1-1.7.16-forge.jar
 - extragore-1.20.1-5.2.3.1.jar
 - ExtremeSoundMuffler-3.49.2-forge-1.20.1.jar
 - ezvcsurvival-forge-1.20.1-1.4.2.jar
@@ -55,8 +52,7 @@ Removed mods:
 - fastboot-1.20.x-1.2.jar
 - FastLeafDecay-32.jar
 - Fastload-Reforged-mc1.20.1-3.4.0.jar
-- flerovium-forge-1.20.1-1.2.16-all.jar
-- gamediscs-0.3.2-forge.jar
+- getittogetherdrops-forge-1.20-1.3.jar
 - GPUTape-1.18x-1.21x-1.0.5.1-forge.jar
 - harvest-with-ease-forge-1.20.1-9.4.0.jar
 - Highlighter-1.20.1-forge-1.1.9.jar
@@ -82,7 +78,9 @@ Removed mods:
 - Searchables-forge-1.20.1-1.0.3.jar
 - smoothboot(reloaded)-mc1.20.1-0.0.4.jar
 - smoothchunk-1.20.1-4.1.jar
+- sodiumdynamiclights-forge-1.0.10-1.20.1.jar
 - sodiumextras-forge-1.0.7-1.20.1.jar
+- sodiumoptionsapi-forge-1.0.10-1.20.1.jar
 - sound-physics-remastered-forge-1.20.1-1.4.10.jar
 - soundofrain-0.5.0.jar
 - Sounds-2.2.1+1.20.1+forge.jar
@@ -90,7 +88,7 @@ Removed mods:
 - treeharvester-1.20.1-9.1.jar
 - txnilib-forge-1.0.23-1.20.1.jar
 - UniLib-1.2.0+1.20.1-forge.jar
-- vanilla_music_discs-1.6-forge-1.20.1.jar
 - vanillin-forge-1.20.1-1.1.3.jar
 - voicechat-forge-1.20.1-2.5.34.jar
+- watut-forge-1.20.1-1.2.3.jar
 - ytongame_hostingmenu-1.0.1.jar
