@@ -11,7 +11,7 @@
 - AlwaysEat: 吃不停
 - Animal Pen: 动物围栏
 - Another Furniture: 别样家具
-- Apocalypse Now: 末日启示录之锯条棒球棍（还有无政府主义套装、护士套装和警察套装等内容）
+- Apocalypse Now: 末日启示录
 - ApocalypseNow Patches: 末日启示录补丁
 - Apothic Attributes: 库
 - AppleSkin: 苹果皮
@@ -48,7 +48,7 @@
 - clientcrafting mod by someaddons: 客户端合成
 - Cloth Config API: 库
 - Clumps: 经验球合并
-- Cobweb: 库（Harvest with ease前置）
+- Cobweb: 库（简单收割前置）
 - Collective: 库
 - Colorwheel: 使飞轮和Iris兼容的模组
 - Colorwheel Patcher: 自动修补支持的光影包，使其与Colorwheel兼容
@@ -65,22 +65,22 @@
 - CraftPresence: Discord状态
 - Crash Assistant: 崩溃助手
 - Create: 机械动力
-- Create Big Cannons: 机械动力之火炮
-- Create Crafts & Additions: 应力转电能
-- Create Deco: 机械动力之装饰
-- Create Diesel Generators: 机械动力之柴油动力
-- Create Hypertube: 机械动力之超级管道
-- Create Stuff & Additions: 机械动力之物品附加
-- Create Central Kitchen: 机械动力之中央厨房
-- Create Interiors：机械动力之内饰
-- Create Radars: 机械动力之雷达
+- Create Big Cannons: 机械动力·火炮
+- Create Crafts & Additions: 机械动力·工艺附加
+- Create Deco: 机械动力·装饰
+- Create Diesel Generators: 机械动力·柴油动力
+- Create Hypertube: 机械动力·超级管道
+- Create Stuff & Additions: 机械动力·物品附加
+- Create Central Kitchen: 机械动力·中央厨房
+- Create Interiors：机械动力·内饰
+- Create Radars: 机械动力·雷达
 - CreateBetterFps: 提高使用光影玩机械动力的帧数
-- CreateStuffAdditionsFix: 机械动力之物品附加的补丁（原模组已修复）
+- CreateStuffAdditionsFix: 机械动力·物品附加的补丁（原模组已修复）
 - CreativeCore: 库
-- Critters and Companions: 动物和伙伴（包括水獭、雪貂、锦鲤和蜻蜓等动物）
-- Cull Less Leaves Reforged: 更好的树叶渲染优化
+- Critters and Companions: 动物和伙伴
+- Cull Less Leaves Reforged: 树叶剔除
 - Cupboard utilities by someaddons: 库
-- Curios API: 库
+- Curios API: （饰品）库
 - Custom NPC: 自定义NPC
 - Custom Portal Api [Forge]: 自定义传送门
 - DarkPaintings: 画
@@ -98,7 +98,7 @@
 - Embeddium: 钠的非官方分叉
 - EmbellishCraft: 装饰工艺
 - EnchantmentDescriptions: 魔咒描述
-- Engineered Schematics: 沉浸工程之投影
+- Engineered Schematics: 沉浸工程·投影
 - Engineers Delight: 使农夫乐事和沉浸工程兼容的模组
 - Enhanced AI: 怪物AI增强
 - Entity Model Features: 实体模型特性
@@ -117,7 +117,7 @@
 - FancyMenu: 个性化菜单
 - Farmer's Delight: 农夫乐事
 - Fast Leaf Decay: 树叶快速腐烂
-- Fast Paintings: 更快地渲染原版中的画（Moonlight前置）
+- Fast Paintings: 更快地渲染原版中的画（前置Moonlight）
 - Fast Suite: 配方性能优化
 - Fast Workbench: 工作台性能优化
 - fastasyncworldsave mod by someaddons: 异步自动保存
@@ -132,7 +132,7 @@
 - FTB Library: 库
 - FTB Quests: FTB任务
 - FTB Teams: FTB团队
-- FTB XMod Compat: 提供FTB和非FTB模组之间的跨模组集成
+- FTB XMod Compat: 使FTB和非FTB模组兼容
 - Game Discs: 游戏光碟
 - GeckoLib 4: 库
 - Get It Together Drops: 自动合并掉落物
@@ -142,14 +142,14 @@
 - Gun Durability: 为TaCZ增加了耐久、维修和枪械干扰机制的模组
 - Harvest with ease: 简单收割
 - Highlighter: 物品高亮
-- Horde Hoard: 原版怪物增强，比如：僵尸搭“人”梯
+- Horde Hoard: 原版怪物增强，例如：僵尸搭“人”梯
 - Horror Element Mod: 恐怖元素，如血迹
 - Iceberg: 库
 - Icterine：优化获取物品触发的进度
 - ImmediatelyFast: 优化所有即时模式渲染
 - Immersive Aircraft: 沉浸式飞机
 - Immersive Engineering: 沉浸工程
-- Immersive Lanterns: 动态灯笼（前置：TxniLib）
+- Immersive Lanterns: 动态灯笼（前置TxniLib）
 - ImmersiveFixes: 沉浸工程修复
 - Immersive Optimization: 沉浸式优化
 - ImmersiveUI: 拖动物品动画
@@ -160,13 +160,13 @@
 - Item Scrapper: 拆解台
 - ItemPhysicLite: 物品物理掉落
 - JasonConfig: 库
-- Just Enough Immersive Multiblocks: 为沉浸工程的多方块结构添加了JEI支持
+- Just Enough Immersive Multiblocks: 使JEI和沉浸工程兼容的模组
 - Just Enough Items: JEI
 - Just Outdoor Stuffs: 户外家具
 - Konkrete: 库
 - Kotlin for Forge: 库
-- KubeJS: 使用JavaScript添加新的方块和物品、更改配方和世界生成器等
-- KubeJS Create: 使用KubeJS编辑和创建机械动力的配方
+- KubeJS: 自定义新的方块和物品、更改配方和世界生成器等
+- KubeJS Create: 自定义机械动力的配方
 - Legendary Survival Overhaul: 传说生存
 - Legendary Tabs: 传说选项卡（通过物品栏访问诸如地图和任务等菜单）
 - Let Me Despawn: 使有装备的怪物自然消失
@@ -174,22 +174,22 @@
 - Log Begone: 删除烦人的日志条目
 - Longer Chat History: 更多聊天记录
 - Loot Journal: 物品拾取提示
-- Lootr: 为玩家提供各自独立的战利品
+- Lootr: 独立战利品箱
 - LostCities: 失落的城市
 - LostRadar: 失落的雷达
 - LostRuins: 失落的世界（世界预设）
-- LostSouls: 失落的灵魂（闹鬼建筑）
+- LostSouls: 失落的灵魂（尸潮建筑）
 - MCreator Memory Fix: 修复了MCreator在Forge 1.20.1版本中的大内存分配错误
 - MOA DECOR ART: 添加了艺术元素的模组
 - MOA DECOR BATH: 添加了洗手间元素的模组
 - MOA DECOR SCIENCE: 添加了科学元素的模组
 - Mapper Base: 库
 - MaxHealthFix: 修复了20血以上重进游戏会失去超过20血部分的漏洞
-- McJtyLib: 库（精美的小饰品前置）
+- McJtyLib: 库
 - Melody: 库
-- Merge Enchantments: 将不共存魔咒添加到一起
+- Merge Enchantments: 允许冲突附魔共存
 - Mineblock's Repeated Utilities: 库
-- MmmMmmMmmmmm: 试验假人（Moonlight前置）
+- MmmMmmMmmmmm: 试验假人（前置Moonlight）
 - Mob Sunscreen: 怪物防晒霜
 - Mobtimizations: 通过优化生物的寻路机制，减少其在服务器中对性能的影响
 - Model Gap Fix: 缝隙修复
@@ -202,7 +202,7 @@
 - MrCrayfish's Gun Mod: MrCrayfish的枪
 - NaNny: 假死修复
 - Nameless Trinkets: 无名饰品
-- Naturalist: 自然主义（好像完全没见到过）
+- Naturalist: 自然主义
 - Nature's Compass: 生物群系指南针
 - Necronomicon: 库
 - Not Enough Recipe Book: 删除配方书
@@ -211,7 +211,7 @@
 - Open Parties and Claims: 强制加载区块
 - PacketFixer: 提高数据包大小上限
 - ParCool: 跑酷
-- ParCool\+ / Compatibility Addon: 为跑酷提供了额外的模组支持
+- ParCool\+ / Compatibility Addon: 使跑酷和其他模组兼容
 - Particular: 通过添加视觉（粒子）效果增强氛围感
 - Patchouli: 帕秋莉手册
 - Pipez: 物流管道
@@ -221,21 +221,21 @@
 - Polymorph: 多态合成
 - Presence Footsteps \(Forge\): 脚步声
 - Pretty Rain: 粒子雨
-- Pufferfish's Attributes: 为游戏增加了新的属性
+- Pufferfish's Attributes: 物品属性
 - Pufferfish's Skills: 技能树
 - Puzzles Lib: 库
 - Quark: 夸克
 - Quest Kill Task: 修复了FTB任务中参与击杀实体的玩家不能共享任务奖励的问题
 - Radium: 锂的非官方Forge版（替代：[Harium](https://modrinth.com/mod/harium)）
 - ReDeco: 重铸家具
-- Redirected: 减少内存占用（TxniLib前置）
-- Refined Polymorphism: 为RS的样板终端添加多态合成兼容
+- Redirected: 减少内存占用（前置TxniLib）
+- Refined Polymorphism: 使RS的样板终端和多态合成兼容
 - Refined Storage: 精致存储
 - Refined Storage Addons: 精致存储附属
 - Refined Storage Mixin: 精致存储修复
-- Resistance Balancer: bug模组还要信雅互联（前置：Necronomicon）
+- Resistance Balancer: bug模组（前置Necronomicon）
 - Rhino: 库（KubeJS前置）
-- Ritchie's Projectile Library: 库（机械动力之火炮前置）
+- Ritchie's Projectile Library: 库（机械动力·火炮前置）
 - Saturn: 现代化修复包括了这个模组的功能
 - Scholar: 一次看两页书
 - Searchables: 键位冲突显示的前置模组
@@ -256,10 +256,10 @@
 - Sophisticated Core: 库
 - Sound Physics Remastered: 物理声效重制版
 - Sound of Rain: 雨声
-- Sounds: 为游戏添加了各种音效
+- Sounds: 各种音效
 - Spawner Control: 刷怪笼控制
 - Spice of Life Carrot Edition: 生活调味料胡萝卜版
-- Spore: 真菌感染之孢子
+- Spore: 真菌感染·孢子
 - Stackable Potions: 可堆叠的药水
 - Starter Kit: 初始套件
 - Storage Drawers: 储物抽屉
@@ -273,37 +273,37 @@
 - TexelsPaintings: 更多的画
 - Texture Locale Redirector: 为游戏资源包添加了原生多语言纹理支持功能
 - The Hordes: 病毒感染和尸潮
-- The One Probe: 检测器（我还是更喜欢Jade）
+- The One Probe: 检测器（替代：Jade）
 - Third Person Shooting Zero: 使TaCZ与越肩视角重制兼容
 - This Rocks\! \(Forge\): 小石头
 - Timeless & Classics Guns Zero: TaCZ
 - Too Fast: 移除服务端对玩家速度的限制
-- Trash Cans: 垃圾桶（前置：SuperMartijn642的Core Lib和Config Lib）
+- Trash Cans: 垃圾桶
 - TrashSlot: 垃圾槽
 - Traveler's Titles: 旅人标题
-- Tree Harvester: 连锁砍树（替代：[FallingTree](https://modrinth.com/mod/fallingtree)）
+- Tree Harvester: 连锁砍树（替代：FallingTree）
 - TxniLib: （牢）库
-- Undead\_revamp2: 添加了循猎魔等亡灵生物（实际没有这个词，最接近的是巡狩。英文原文为“The Hunter”，我认为翻译成“猎杀者”比较合适）
+- Undead\_revamp2: 添加了循猎魔等亡灵生物（实际没有这个词，最接近的是巡狩。英文原文为“The Hunter”，我认为翻译成“猎杀者”更合适）
 - UniLib: 库（Craft Presence前置）
 - Vanilla Music Discs: 用唱片收听在后台随机播放的任何原版音乐
 - Vanillin: 优化飞轮~~但是内置飞轮与飞轮打架~~
-- Vertical Slabs Compat: 为其他模组添加基于夸克的竖半砖支持（Moonlight前置）
+- Vertical Slabs Compat: 为其他模组添加基于夸克的竖半砖支持（前置Moonlight）
 - Voiceless Survival: 噪音会吸引怪物
 - Weapon Throw: 武器投掷
 - What Are They Up To: 在其他玩家面前显示他们打开的GUI界面
-- Wormhole \(Portals\): 传送门（前置：SuperMartijn642的Core Lib和Config Lib）
-- XP Tome: 经验书（精妙背包经验泵升级的下位替代，t2还一堆）
+- Wormhole \(Portals\): 传送门
+- XP Tome: 经验书
 - Xaero's Minimap: Xaero的小地图
 - Xaero's World Map: Xaero的世界地图
 - YUNG's API: 库（旅人标题前置）
 - Yeetus Experimentus: 关闭“实验性功能”警告
 - YetAnotherConfigLib: 库
 - YtonGame\-HostingMenu: 推广服务器
-- Zero CORE 2: 库（极限反应堆的前置）
+- Zero CORE 2: 库（极限反应堆前置）
 - Zeta: 库（夸克前置）
 - Zombie Awareness: 僵尸意识
 - Zombie Extreme: 死沙群系（辐射）
-- lazyyyyy: 加速启动（替代：[quick pack](https://modrinth.com/mod/quick-pack)）
+- lazyyyyy: 加速启动（替代：quick pack）
 - recipeessentials mod by someaddons: 放个明确不兼容的模组进来是何意味
 
    > 作者原话：“Incompatible with FastSuite and Not Enough Recipe Book(similar feature set)”。
