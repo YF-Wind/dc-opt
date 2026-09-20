@@ -1,4 +1,6 @@
-# 已删除模组列表
+# 已删除模组的功能列表
+
+懒得更新了，反正差不多就是这些：
 
 - Advancement Plaques: 进度牌匾
 - Equipment Compare: 装备比较
@@ -62,7 +64,7 @@
 - Particular: 通过添加视觉（粒子）效果增强氛围感
 - Presence Footsteps \(Forge\): 脚步声
 - Pretty Rain: 粒子雨
-- Radium: Lithium的非官方Forge版（替代：[Harium](https://modrinth.com/mod/harium)）
+- Radium: Lithium的非官方Forge版（替代：Harium）
 - Immersive Lanterns: 动态灯笼（前置：TxniLib）
 - Redirected: 减少内存占用（前置：TxniLib）
 - TxniLib: （牢）库
@@ -73,7 +75,7 @@
 - Sodium Extras: Embeddium附属（推荐使用RuOK或Chloride代替）
 - Sound Physics Remastered: 物理声效重制版
 - Sound of Rain: 雨声
-- The One Probe: 检测器（我还是更喜欢Jade）
-- Tree Harvester: 连锁砍树（替代：[FallingTree](https://modrinth.com/mod/fallingtree)）
+- The One Probe: 检测器（替代：Jade）
+- Tree Harvester: 连锁砍树（替代：FallingTree）
 - Vanilla Music Discs: 用唱片收听在后台随机播放的任何原版音乐
 - Vanillin: 优化飞轮~~但是内置飞轮与飞轮打架~~
