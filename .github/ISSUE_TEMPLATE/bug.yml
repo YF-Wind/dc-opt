@@ -1,0 +1,70 @@
+name: 🐞 错误报告
+description: 提交报告，帮助我们改进
+labels: [bug]
+assignees: []
+body:
+  - type: dropdown
+    id: os
+    attributes:
+      label: 你在哪个系统上运行Minecraft？
+      options:
+        - Linux X11
+        - Linux Wayland
+        - macOS
+        - Windows
+        - Windows WSL
+        - FreeBSD X11
+        - FreeBSD Wayland
+        - Android
+    validations:
+      required: true
+  - type: input
+    id: launcher
+    attributes:
+      label: 你使用的是哪个启动器运行Minecraft？
+      placeholder: "例如：官方启动器"
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: "日志"
+      description: 请将latest.log粘贴到这里
+      render: Shell
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 描述错误
+      description: 清晰、简洁地描述该错误的具体表现
+      placeholder: Tell us what happened
+    validations:
+      required: true
+  - type: textarea
+    id: reproducer
+    attributes:
+      label: 最小复现示例
+      description: 必须提供[最小复现示例](https://stackoverflow.com/help/minimal-reproducible-example)，否则该议题可能会在不另行通知的情况下被关闭。
+      placeholder: |
+        请尽可能提供更多信息，以便我们复现和理解该议题。
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: 其他信息？
+      description: |
+        请在这里补充与问题相关的其他信息。
+        你可以点击此区域使其高亮，然后将截图拖入其中。
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: 检查清单
+      description: 提交议题前，请确认你已完成以下事项：
+      options:
+        - label: 我已搜索现有议题，确认没有重复问题
+          required: true
+        - label: 我已提供清晰的复现步骤
+          required: true
+        - label: 我已移除日志中的账号、服务器地址及IP地址等敏感信息
