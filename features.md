@@ -226,7 +226,7 @@
 - Puzzles Lib: 库
 - Quark: 夸克
 - Quest Kill Task: 修复了FTB任务中参与击杀实体的玩家不能共享任务奖励的问题
-- Radium: 锂的非官方Forge版（替代：[Harium](https://modrinth.com/mod/harium)）
+- Radium: 锂的非官方Forge版（替代：Harium）
 - ReDeco: 重铸家具
 - Redirected: 减少内存占用（前置TxniLib）
 - Refined Polymorphism: 使RS的样板终端和多态合成兼容
