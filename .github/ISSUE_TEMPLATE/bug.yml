@@ -38,7 +38,7 @@ body:
     attributes:
       label: 描述错误
       description: 清晰、简洁地描述该错误的具体表现
-      placeholder: Tell us what happened
+      placeholder: 告诉我们发生了什么
     validations:
       required: true
   - type: textarea
@@ -55,7 +55,7 @@ body:
     attributes:
       label: 其他信息？
       description: |
-        请在这里补充与问题相关的其他信息。
+        在这里补充与问题相关的其他信息。
         你可以点击此区域使其高亮，然后将截图拖入其中。
   - type: checkboxes
     id: checklist
