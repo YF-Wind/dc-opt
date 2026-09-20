@@ -1,0 +1,21 @@
+# 已添加模组的功能列表
+
+- Accelerated Rendering：加速渲染
+- AsyncParticles：异步粒子
+- Chloride：钠的附属模组
+- Debugify：修复错误
+- Dynamic FPS：动态帧率
+- fzzy_config：库（Particle Core前置）
+- gnetum：限制HUD帧数
+- Harium：通用优化模组
+- Ixeris：解决“移动鼠标时，帧率会有明显下降”的问题
+- liubai：实体剔除（配合Entity Culling）
+- More Culling：更多剔除
+- No See, No Tick：暂停远距离实体的Tick
+- Particle Core：粒子渲染优化
+- Resourcefulconfig：库（Structure Layout Optimizer前置）
+- RuOK: 配合Chloride
+- ServerCore：服务器优化模组
+- Save My Shit Network：阻止常见的模组连接互联网
+- Structure Layout Optimizer：结构生成优化
+- Fast Noise Mod：提升世界生成速度的模组
